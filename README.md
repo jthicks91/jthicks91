@@ -13,6 +13,7 @@ I'm a dedicated, passionate and inquisitive Full Stack Web Developer with a demo
 Over the past 10 years, I have leveraged my diverse experiences to excel and develop into a problem-solving, communicative and organized developer who is interested in combining those skills with web technologies to help build engaging and cutting-edge projects.
 
 Currently I'm diving deeper into Back-End development with an emphasis in Javascript, Python, MongoDB & GraphQL everyday.</p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=jthicks91 alt=jthicks91 /> </p>
 
