@@ -11,7 +11,6 @@ I'm a dedicated and passionate Full Stack Web Developer with a demonstrated hist
 
 Over the past ten years, I have leveraged my diverse experiences to excel and develop into a problem-solving, communicative, and organized developer interested in combining those skills with web technologies to help build engaging and cutting-edge projects.
 
-In my free time, I make music, stream video games on Twitch and collect trading cards.
 
 Currently, I'm diving deeper into Back-End development with an emphasis in Javascript, Python, MongoDB & GraphQL every day.
 
