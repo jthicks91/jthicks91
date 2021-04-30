@@ -2,7 +2,7 @@
 
 
 
-## Hello Scholars!
+## Hello, scholars!
 
   
 I'm Jordan!
